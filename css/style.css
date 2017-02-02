@@ -1,11 +1,12 @@
 html, body {
-  padding: 0px;
-  margin: 0px;
+    padding: 0px;
+    margin: 0px;
 }
+
 canvas {
-  position: absolute;
+    position: absolute;
 }
 
 h1 {
-  margin:20px;
+    margin: 20px;
 }
