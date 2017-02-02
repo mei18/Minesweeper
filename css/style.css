@@ -1,0 +1,11 @@
+html, body {
+  padding: 0px;
+  margin: 0px;
+}
+canvas {
+  position: absolute;
+}
+
+h1 {
+  margin:20px;
+}
